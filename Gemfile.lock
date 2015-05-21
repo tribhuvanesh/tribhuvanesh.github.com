@@ -49,12 +49,13 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
     mercenary (0.3.5)
-    octopress (3.0.0.rc.34)
-      jekyll (~> 2.0)
+    octopress (3.0.5)
+      jekyll (>= 2.0)
       mercenary (~> 0.3.2)
       octopress-deploy
       octopress-escape-code (~> 2.0)
       octopress-hooks (~> 2.0)
+      redcarpet (~> 3.0)
       titlecase
     octopress-deploy (1.1.0)
       colorator
@@ -89,4 +90,4 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-sitemap
-  octopress (~> 3.0.0.rc.12)
+  octopress (~> 3.0.0)

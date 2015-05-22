@@ -3,6 +3,7 @@
 title:            Constrained Ramblings
 locale:           en_US
 url:              //tribhuvanesh.github.io
+#url:              http://localhost:4000
 
 
 # Jekyll configuration
@@ -30,7 +31,7 @@ owner:
   avatar: tribhu_bio_photo.jpg
   bio: "Grad Student, Hacker, Wanderer living in Zurich"
   email: tribhuvanesh@gmail.com
-  disqus-shortname: 
+  disqus-shortname: tribhuvanesh
   twitter: tribhuvanesh
   facebook: #username
   google:

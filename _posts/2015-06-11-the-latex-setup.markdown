@@ -34,7 +34,7 @@ Here's how it currently looks like (I'm quite proud of it.)
 
 <figure class="half">
     <a href="/images/latex-setup-1.png"><img src="/images/latex-setup-1.png"></a>
-    <a href="/images/latex-setup-1.png"><img src="/images/latex-setup-2.png"></a>
+    <a href="/images/latex-setup-2.png"><img src="/images/latex-setup-2.png"></a>
     <figcaption></figcaption>
 </figure>
 

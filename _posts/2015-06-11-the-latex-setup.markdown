@@ -35,7 +35,7 @@ Here's how it currently looks like (I'm quite proud of it.)
 <figure class="half">
     <a href="/images/latex-setup-1.png"><img src="/images/latex-setup-1.png"></a>
     <a href="/images/latex-setup-1.png"><img src="/images/latex-setup-2.png"></a>
-    <figcaption>Caption describing these two images.</figcaption>
+    <figcaption></figcaption>
 </figure>
 
 I edit on one screen, hit `cmd-t` to immediately preview it on the other screen.

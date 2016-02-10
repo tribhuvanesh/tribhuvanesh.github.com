@@ -11,14 +11,18 @@ Welcome to Constrained Ramblings!
 
 <br />
 
-I'm Tribhuvanesh, a second year Computer Science Master's student at
+I'm Tribhuvanesh, a Computer Science Master's student at
 [ETH Zürich](http://inf.ethz.ch/).
-Of late, I've been working in an interdisciplinary domain involving Machine Learning,
-Computer Vision and Distributed Systems.
-Specifically, distributed optimization of large margin structured prediction
-classifiers.
-I'm currently being co-advised for my thesis by [Martin Jaggi](http://people.inf.ethz.ch/jaggim/), [Aurelien Lucchi](http://people.inf.ethz.ch/alucchi/) and [Thomas Hofmann](http://da.inf.ethz.ch/people/ThomasHofmann/) in the
-[Data Analytics Lab](http://da.inf.ethz.ch/) at ETH.  
+Presently, I'm a research intern at Xerox Research Center Europe supervised by Diane Larlus and Albert Gordo.
+We are working on advancing deep learning techniques to solve some really interesting and challenging problems in Computer Vision.
+
+<br />
+
+**News**   
+- *Jan-16*: I started interning at XRCE, Grenoble.
+- *Sep-15*: My master thesis *HADES* is available [online](http://e-collection.library.ethz.ch/view/eth:48405).
+- *Aug-15*: Check out dissolve<sup>struct</sup>, an open-source structured prediction library [here](http://dalab.github.io/dissolve-struct/).
+
 
 <br />
 

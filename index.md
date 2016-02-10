@@ -19,6 +19,7 @@ We are working on advancing deep learning techniques to solve some really intere
 <br />
 
 **News**   
+
 - *Jan-16*: I started interning at XRCE, Grenoble.   
 - *Sep-15*: My master thesis *HADES* is available [online](http://e-collection.library.ethz.ch/view/eth:48405).    
 - *Aug-15*: Check out dissolve<sup>struct</sup>, an open-source structured prediction library [here](http://dalab.github.io/dissolve-struct/).

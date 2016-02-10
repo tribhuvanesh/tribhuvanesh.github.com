@@ -18,7 +18,7 @@ We are working on advancing deep learning techniques to solve some really intere
 
 <br />
 
-**News**   
+#### News  
 
 - *Jan-16*: I started interning at XRCE, Grenoble.   
 - *Sep-15*: My master thesis *HADES* is available [online](http://e-collection.library.ethz.ch/view/eth:48405).    

@@ -4,7 +4,7 @@ title: Conditional Formatting Data
 modified:
 categories: til
 excerpt:
-tags: []
+tags: [data]
 image:
   feature:
 date: 2015-09-25T21:42:26+01:00

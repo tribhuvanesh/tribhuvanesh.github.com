@@ -4,7 +4,7 @@ title: Simple Progress Status in Python
 modified:
 categories: til
 excerpt:
-tags: []
+tags: [python]
 image:
   feature:
 date: 2016-02-15T21:56:13+01:00

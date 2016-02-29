@@ -10,7 +10,7 @@ url:              //tribhuvanesh.github.io
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -37,10 +37,10 @@ owner:
   google:
     plus: #username
     analytics: UA-63237538-1
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
   github: tribhuvanesh
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username

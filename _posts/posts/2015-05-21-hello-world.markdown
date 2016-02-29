@@ -2,7 +2,7 @@
 layout: post
 title: Hello, World!
 modified:
-categories:
+categories: posts
 excerpt:
 tags: []
 image:

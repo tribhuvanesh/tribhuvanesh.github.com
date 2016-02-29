@@ -2,7 +2,7 @@
 layout: post
 title: The LaTeX Setup
 modified:
-categories:
+categories: posts
 excerpt: Some words about my collaborative version-controlled LaTeX workflow.
 tags: [latex]
 comments: true

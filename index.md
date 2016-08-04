@@ -11,15 +11,15 @@ Welcome to Constrained Ramblings!
 
 <br />
 
-I'm Tribhuvanesh, a Computer Science Master's student at
-[ETH Zürich](http://inf.ethz.ch/).
-Presently, I'm a research intern at Xerox Research Center Europe supervised by Diane Larlus and Albert Gordo.
-We are working on advancing deep learning techniques to solve some really interesting and challenging problems in Computer Vision.
+I'm Tribhuvanesh, a first year Computer Science Ph.D. candidate at [Max-Planck-Institut für Informatics](https://www.mpi-inf.mpg.de/home/).
+My work here involves Machine Learning and Computer Vision.
+I'm being advised by [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/) and [Mario Fritz](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/mario-fritz/).
 
 <br />
 
 #### News  
 
+- *Aug-16*: Began as Ph.D. candidate at [Max-Planck-Institut für Informatics](people.mpi-inf.mpg.de/~orekondy), Saarbrücken, Germany
 - *Jan-16*: I started interning at XRCE, Grenoble.   
 - *Sep-15*: My master thesis *HADES* is available [online](http://e-collection.library.ethz.ch/view/eth:48405).    
 - *Aug-15*: Check out dissolve<sup>struct</sup>, an open-source structured prediction library [here](http://dalab.github.io/dissolve-struct/).
